@@ -47,8 +47,9 @@ This fall detection system is designed to analyze video streams in real-time and
    Run this only after running main.py first
 
 ## Gallery
-![img.png](img.png)
-![Screenshot 2024-05-06 1404064545.png](..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-05-06%201404064545.png)
-![Screenshot 2024-05-06 135413.png](..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-05-06%20135413.png)
-![Screenshot 2024-05-06 140058.png](..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-05-06%20140058.png)
+![img1](https://github.com/V2K9deeksha/StaircaseFalldetection/assets/125916279/5c60ae8c-42c6-4964-82dc-320971961dbb)
+![img2](https://github.com/V2K9deeksha/StaircaseFalldetection/assets/125916279/b24ff9cb-9cc6-4783-b57c-8ea87f3ed518)
+![img3](https://github.com/V2K9deeksha/StaircaseFalldetection/assets/125916279/0c8ac3a2-560e-48c0-b424-70cd27814399)
+![img4](https://github.com/V2K9deeksha/StaircaseFalldetection/assets/125916279/71610b77-9dd7-41ac-b809-eebfc9c82769)
+
 ---
